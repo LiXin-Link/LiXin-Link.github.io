@@ -5,7 +5,22 @@
     <link>https://LiXin-Link.github.io/</link>
     <description>Recent content on 编程笔记</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://LiXin-Link.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://LiXin-Link.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>魔能规则整理</title>
+      <link>https://LiXin-Link.github.io/post/%E9%AD%94%E8%83%BD%E8%A7%84%E5%88%99%E6%95%B4%E7%90%86/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://LiXin-Link.github.io/post/%E9%AD%94%E8%83%BD%E8%A7%84%E5%88%99%E6%95%B4%E7%90%86/</guid>
+      <description>魔能规则整理
+元素 基础元素为8中，分别对应Q、W、E、R、A、S、D、F八个按键：
+Q 水，湿身并强制位移 W 生命，加血，死亡系减血 E 护盾，自我施法时添加对应护盾，普通施法时设置防御/陷阱 R 寒冷，减速 A 闪电，攻击可在敌人间跳跃 S 死亡，减血，死亡系加血 D 石头，蓄力攻击 F 火，燃烧 追加元素有2种：
+冰，由水和寒冷组成 蒸汽，由水和火组成 施法方式 施法方式有四种：
+普通施法，右键 自我施法，中键 环形施法，Shift + 右键 特定施法，空格（需要特定元素顺序） 魔法形态 魔法形态氛围以下几种
+锥形，持续施法，水、寒冷、闪电、火的默认形态 激光形，持续施法，生命、死亡的默认形态 半环形，瞬间施法，盾的默认形态 炮弹形，瞬间施法，可蓄力，石的默认形态 子弹形，持续施法，冰的默认形态 地雷形，瞬间施法，盾元素加入生命/死亡后的普通施法形态 自身状态 自身状态分为增益和减益 减益有：
+湿身，全身湿润，无法聚集电元素，可用火元素解除，承受一次蒸汽伤害。 冰冻，湿身状态下受到寒冷攻击则冰冻，有禁锢效果 燃烧，受到持续伤害，人物不受控制x秒，可使用水/寒解除，使用水时承受一次蒸汽伤害 增益主要是盾元素，盾元素分为物理盾和元素盾，物理的包括石头盾和冰盾，其他为元素盾，免疫对应元素伤害。</description>
+    </item>
+    
     <item>
       <title>Photoswipe Gallery Sample</title>
       <link>https://LiXin-Link.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
